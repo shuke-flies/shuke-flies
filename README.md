@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Shuke! 👋
 
-<!--
-**shuke-flies/shuke-flies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently an **Electrical Engineering student** with a passion for **computer vision**. Exploring how machines "see" the world is just fascinating to me!
 
-Here are some ideas to get you started:
+## 👨‍💻 Tech I Love
+- **Python** (my go-to language for most things)
+- **OpenCV & YOLO** (I’ve used them to solve some cool computer vision challenges)
+- **C & C++** (not my main jam, but I can handle them!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🕵️‍♂️ Cool Project Highlight
+Measured real-world distances using only a single camera—with surprisingly precise results!  
+*(Ask me about the math and code behind it, if you’re curious!)*
+
+## 🎾 Outside of Tech...
+- I’m a **badminton enthusiast** (always up for a match!)
+- Love **watching movies** and **listening to music**—it’s how I unwind.
+
+## 📬 Let's Connect!
+Feel free to reach out: **28632244352qq.com**
+
+---
+
+Thanks for stopping by my profile!  
+If you share any of my interests, let’s chat or collaborate on something cool. 😄
